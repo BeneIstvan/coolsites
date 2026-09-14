@@ -106,6 +106,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [You're getting old!](https://you.regettingold.com): Report full of interesting stuff based on your birthdate.
 * [Omnichord Online](https://www.omnichordonline.com): It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 * [iambored.site](https://iambored.site/): An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
+* [braincell.lol](https://braincell.lol): An AI with exactly 1,000,000 braincells and no thoughts of its own. Anyone can pay 10 cents per character to write a permanent, public memory into its mind, and it reacts to every one in its own voice.
 
 ## 🔧 Life hacks & Generally useful sites
 
